@@ -2,14 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_home"
-        android:title="Home"
-        android:icon="@drawable/ic_home"/>
+        android:title="Entrar no Sistema"
+        android:icon="@drawable/ic_entrar"/>
     <item
         android:id="@+id/nav_favorito"
-        android:title="Favorito"
-        android:icon="@drawable/ic_favorito"/>
+        android:title="FAQ"
+        android:icon="@drawable/ic_help"/>
     <item
         android:id="@+id/nav_buscar"
-        android:title="Buscar"
-        android:icon="@drawable/ic_buscar"/>
+        android:title="Termos de uso"
+        android:icon="@drawable/ic_termos"/>
 </menu>
