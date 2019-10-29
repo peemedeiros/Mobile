@@ -26,7 +26,7 @@
     </item>
     <item android:title="User Info">
         <menu>
-            <item android:title=""/>
+            <item android:title="Name"/>
         </menu>
     </item>
 </menu>
